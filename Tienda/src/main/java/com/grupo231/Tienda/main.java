@@ -9,7 +9,7 @@ public class main {
 		System.out.println ("Mi nombre es Jorge");
 		System.out.println ("Mi apellido es Alvarado");
 		System.out.println ("Mi computador es muy rápido jajaja")
-		
+		System.out.println ("Este si fue");
 
 	}
 
